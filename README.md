@@ -8,6 +8,8 @@ to Robtop's own rate-limiting. My reasons behind building this software is becau
 and the people behind this kind of stuff can and are becoming more and more agressive about this kind of stuff. This tool currently runs 
 on [gd.py](https://github.com/nekitdev/gd.py) however I'm open towards moving to rust after we get a few stable builds done in python first.
 
+## Example Comments that should be Removed by this Upcomming tool
+<img src="https://raw.githubusercontent.com/CallocGD/GD-Spammer-Purge/main/Examples.png" />
 
 
 
